@@ -1,0 +1,56 @@
+
+L1: Good - 23 - 49 (Green/Target)
+
+L2: Satisfactory - 51 - 99  (Target2)
+
+L3: Moderately Polluted - 101 - 199 (okok)
+
+L4: Very Poor - 201 - 399 (Minimum)
+
+L5: Severe - 401 - 491 (High/Maximum)
+
+
+PM10
+54 - 99 (Good)
+
+0 - 5093 (Mod Poll)
+
+0 - 4257 (satis)
+
+70 - 3528 (Severe)
+
+12 - 2733 (Very Poor)
+
+
+SO2
+0 -  3(Good)
+
+0 - 113(Mod Poll)
+
+0 - 202 (satis)
+
+0 - 81(Severe)
+
+0 - 54(Very Poor)
+
+CO2
+326 - 362(Good)
+
+0 - 325(Mod Poll)
+
+0 - 602(satis)
+
+153 - 772(Severe)
+
+0 - 637 (Very Poor)
+
+NO2
+0.02 - 87(Good)
+
+0 - 94(Mod Poll)
+
+0 - 42(satis)
+
+0.08 - 38 (Severe)
+
+0.06 - 94 (Very Poor)
